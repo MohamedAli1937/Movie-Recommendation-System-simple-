@@ -112,4 +112,4 @@ pip install pandas numpy scikit-learn
 ### 🚀 Future Improvements
 - Adding a Collaborative Filtering approach using user ratings.
 - Building a Hybrid Model that combines both methods.
-- Creating a web interface using Streamlit or Flask., BERT)
+- Creating a web interface using Streamlit or Flask.
